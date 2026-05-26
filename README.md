@@ -1,6 +1,6 @@
 #  CNFinBench: Evaluating Expertise, Autonomy, and Integrity in Finance
 
-**Language**: [English](README.md) | [中文](README_CN.md)
+**Language**: [English](README.md) | [中文](README_CN.md)。
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2512.09506)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-OpenCompass-blue)](https://cnfinbench.opencompass.org.cn/home)
